@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TECHN0HACKER
-- 👀 I’m interested in C# .NET App Development and VBS
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in C# .NET App Development using WinUI 3
+- 🌱 I’m currently learning C# and js
 - 💞️ I’m looking to collaborate on My Project that is Message Maker
 - 📫 How to reach me discord/twitter/email.
 Discord: https://discord.gg/zPG7HdBwyy
